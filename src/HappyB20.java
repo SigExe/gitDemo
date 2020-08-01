@@ -7,5 +7,6 @@ public class HappyB20 {
         System.out.println("I hope I have no more problems with git from now on");
         
         // B20 is not happy, they are annoying >:(
+        // I forgave B20 for all their GIFs
     }
 }
