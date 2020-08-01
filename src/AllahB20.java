@@ -6,5 +6,6 @@ public class AllahB20 {
         System.out.println("Everyone here is Muslim except me");
 
 
+        System.out.println("I don't really mind at this point, Happy Eid!");
     }
 }
